@@ -17,6 +17,7 @@
     <modules>
         <module>springboot-springmvc</module>
         <module>form-validation-thymeleaf</module>
+        <module>springboot-package-war</module>
     </modules>
 
     <properties>
