@@ -16,6 +16,7 @@
 
     <modules>
         <module>springboot-springmvc</module>
+        <module>form-validation-thymeleaf</module>
     </modules>
 
     <properties>
